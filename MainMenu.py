@@ -128,7 +128,7 @@ while True:
         import DrivFinList
         print("Print Driver Financial Listing functionality.")
     elif choice == "8":
-        # Placeholder for Corporate Summary Report functionality
+        import summary
         print("Corporate Summary Report functionality.")
     elif choice == "9":
         # Quit the program
